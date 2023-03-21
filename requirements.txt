@@ -1,0 +1,8 @@
+geopy==2.2.0
+ipdb==0.13.9
+matplotlib==3.5.1
+numpy==1.22.4
+numpy_ext==0.9.8
+pandas==1.4.3
+scipy==1.8.1
+torch==1.11.0

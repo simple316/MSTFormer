@@ -1,0 +1,64 @@
+model:MSTFormer_data:./data/AIS2021_72_48_24_3s_test/_probUse:True_embed:timeF_encoderLayers:2_decoderLayers:1_probSparseFactor:3_dropout:0.05_itr:1_trainEpochs:20_batchSize:50_patience:5_learningRate:5e-06
+itr:0,total:1
+>>>>>>>start training : model1_MSTFormer_ship_ftM_sl72_ll48_pl24_puTrue_dm512_nh8_el2_dl1_df2048_atprob_fc3_ebtimeF_dtTrue_mxTrue_test_0>>>>>>>>>>>>>>>>>>>>>>>>>>
+train700
+val100
+test200
+seed:5851
+Epoch: 1 cost time: 8.30501914024353
+Epoch: 1, Steps: 14 | Train Loss: 533.7363565 Vali Loss: 769.6202393 Test Loss: 542.6927490
+Epoch: 2 cost time: 4.452057123184204
+Epoch: 2, Steps: 14 | Train Loss: 473.7481253 Vali Loss: 697.2114258 Test Loss: 493.7472534
+Epoch: 3 cost time: 4.0551252365112305
+Epoch: 3, Steps: 14 | Train Loss: 459.9723860 Vali Loss: 675.0383301 Test Loss: 476.0681763
+Epoch: 4 cost time: 3.7290546894073486
+Epoch: 4, Steps: 14 | Train Loss: 456.7216928 Vali Loss: 679.1219482 Test Loss: 472.4917908
+Epoch: 5 cost time: 4.753290176391602
+Epoch: 5, Steps: 14 | Train Loss: 455.5354309 Vali Loss: 670.9036255 Test Loss: 468.2878418
+model:MSTFormer_data:./data/AIS2021_72_48_24_3s_test/_probUse:True_embed:timeF_encoderLayers:2_decoderLayers:1_probSparseFactor:3_dropout:0.05_itr:1_trainEpochs:20_batchSize:50_patience:5_learningRate:5e-06
+itr:0,total:1
+>>>>>>>start training : model1_MSTFormer_ship_ftM_sl72_ll48_pl24_puTrue_dm512_nh8_el2_dl1_df2048_atprob_fc3_ebtimeF_dtTrue_mxTrue_test_0>>>>>>>>>>>>>>>>>>>>>>>>>>
+train700
+val100
+test200
+model:MSTFormer_data:./data/AIS2021_72_48_24_3s_test/_probUse:True_embed:timeF_encoderLayers:2_decoderLayers:1_probSparseFactor:3_dropout:0.05_itr:1_trainEpochs:20_batchSize:50_patience:5_learningRate:5e-06
+itr:0,total:1
+>>>>>>>start training : model1_MSTFormer_ship_ftM_sl72_ll48_pl24_puTrue_dm512_nh8_el2_dl1_df2048_atprob_fc3_ebtimeF_dtTrue_mxTrue_test_0>>>>>>>>>>>>>>>>>>>>>>>>>>
+train700
+val100
+test200
+model:MSTFormer_data:./data/AIS2021_72_48_24_3s_test/_probUse:True_embed:timeF_encoderLayers:2_decoderLayers:1_probSparseFactor:3_dropout:0.05_itr:1_trainEpochs:20_batchSize:50_patience:5_learningRate:5e-06
+itr:0,total:1
+>>>>>>>start training : model1_MSTFormer_ship_ftM_sl72_ll48_pl24_puTrue_dm512_nh8_el2_dl1_df2048_atprob_fc3_ebtimeF_dtTrue_mxTrue_test_0>>>>>>>>>>>>>>>>>>>>>>>>>>
+train700
+val100
+test200
+model:MSTFormer_data:./data/AIS2021_72_48_24_3s_test/_probUse:True_embed:timeF_encoderLayers:2_decoderLayers:1_probSparseFactor:3_dropout:0.05_itr:1_trainEpochs:20_batchSize:50_patience:5_learningRate:5e-06
+itr:0,total:1
+>>>>>>>start training : model1_MSTFormer_ship_ftM_sl72_ll48_pl24_puTrue_dm512_nh8_el2_dl1_df2048_atprob_fc3_ebtimeF_dtTrue_mxTrue_test_0>>>>>>>>>>>>>>>>>>>>>>>>>>
+train700
+val100
+test200
+Epoch: 1 cost time: 9.238875150680542
+Epoch: 1, Steps: 14 | Train Loss: 7.9665283 Vali Loss: 5.3291841 Test Loss: 4.7256188
+Epoch: 2 cost time: 7.53281307220459
+Epoch: 2, Steps: 14 | Train Loss: 4.0520120 Vali Loss: 4.4665155 Test Loss: 4.6960135
+Epoch: 3 cost time: 7.533924102783203
+Epoch: 3, Steps: 14 | Train Loss: 3.7219311 Vali Loss: 3.6973572 Test Loss: 3.5960016
+Epoch: 4 cost time: 7.970435380935669
+Epoch: 4, Steps: 14 | Train Loss: 3.6365065 Vali Loss: 4.4393234 Test Loss: 4.0376506
+Epoch: 5 cost time: 8.802420616149902
+Epoch: 5, Steps: 14 | Train Loss: 3.5617899 Vali Loss: 3.8176868 Test Loss: 3.5259485
+Epoch: 6 cost time: 6.835680246353149
+Epoch: 6, Steps: 14 | Train Loss: 3.4831410 Vali Loss: 4.0104198 Test Loss: 3.5954740
+Epoch: 7 cost time: 6.803064346313477
+Epoch: 7, Steps: 14 | Train Loss: 3.5455412 Vali Loss: 4.1509123 Test Loss: 3.8449879
+Epoch: 8 cost time: 6.788498640060425
+Epoch: 8, Steps: 14 | Train Loss: 3.5282173 Vali Loss: 3.9941564 Test Loss: 3.8161399
+EarlyStopping counter: 5 out of 5
+Early stopping
+>>>>>>>testing : model1_MSTFormer_ship_ftM_sl72_ll48_pl24_puTrue_dm512_nh8_el2_dl1_df2048_atprob_fc3_ebtimeF_dtTrue_mxTrue_test_0<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+test200
+test shape:(200, 24, 2)(200, 25, 4)
+mse:0.0013885144144296646, mae:0.02223939634859562, dis:3.618041515350342, rmse0.037262775003910065, mape0.0004893668228760362, mspe7.568086175524513e-07
+
