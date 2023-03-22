@@ -20,6 +20,16 @@ A simple dataset is provided for testing the code, or you can generate your own 
 After configuring the environment, just run main_MSTFomer.py directly. Also, you can test different data by changing the parameters inside. The file where the logs are saved can be changed by changing the path in log.py.
 ## Citation
 If you find this repository useful in your research, please consider citing the following paper:
+```
+@misc{qiang2023mstformer,
+      title={MSTFormer: Motion Inspired Spatial-temporal Transformer with Dynamic-aware Attention for long-term Vessel Trajectory Prediction}, 
+      author={Huimin Qiang and Zhiyuan Guo and Shiyuan Xie and Xiaodong Peng},
+      year={2023},
+      eprint={2303.11540},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+}
+```
 ## Contact
 If you have any questions, feel free to contact Huimin Qiang through Email (qianghuimin21@mails.ucas.ac.cn) or Github issues. Pull requests are highly welcomed!
 ## Acknowledgments
