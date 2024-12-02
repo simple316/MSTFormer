@@ -1,6 +1,6 @@
 
-# MSTFormer: Motion Inspired Spatial-temporal Transformer with Dynamic-aware Attention for long-term Vessel Trajectory Prediction
-This is a method for long-term ship trajectory prediction. It mainly improves the trajectory prediction performance by data augmentation, dynamic-aware attention, and knowledge-inspired loss function.
+# MSTFormer: Motion Inspired Spatial-temporal Transformer for Accurate Vessel Trajectory Prediction
+This is a method for vessel trajectory prediction. It mainly improves the trajectory prediction performance by data augmentation, dynamic-aware attention, and knowledge-inspired loss function.
 
 
 ## Requirements
