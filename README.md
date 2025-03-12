@@ -21,13 +21,14 @@ After configuring the environment, just run main_MSTFomer.py directly. Also, you
 ## Citation
 If you find this repository useful in your research, please consider citing the following paper:
 ```
-@misc{qiang2023mstformer,
-      title={MSTFormer: Motion Inspired Spatial-temporal Transformer with Dynamic-aware Attention for long-term Vessel Trajectory Prediction}, 
-      author={Huimin Qiang and Zhiyuan Guo and Shiyuan Xie and Xiaodong Peng},
-      year={2023},
-      eprint={2303.11540},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG}
+@article{qiang2025motion,
+  title={Motion-Inspired Spatial--Temporal Transformer for accurate vessel trajectory prediction},
+  author={Qiang, Huimin and Guo, Zhiyuan and Chu, Zhong and Xie, Shiyuan and Peng, Xiaodong},
+  journal={Engineering Applications of Artificial Intelligence},
+  volume={148},
+  pages={110391},
+  year={2025},
+  publisher={Elsevier}
 }
 ```
 ## Contact
