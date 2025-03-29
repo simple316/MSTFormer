@@ -4,6 +4,7 @@ from data.dataprocesslib import rad_distance, nmile2km, is_number
 from numpy import *
 import numpy as np
 import os
+import math
 
 import matplotlib.pyplot as plt
 

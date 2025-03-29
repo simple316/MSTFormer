@@ -12,6 +12,7 @@ numpy==1.22.4
 numpy_ext==0.9.8
 pandas==1.4.3
 scipy==1.8.1
+torch==1.11.0
 ```
 
 ## Data
